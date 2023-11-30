@@ -25,3 +25,4 @@ console.log(getShippingCost("Germany"));
 console.log(getShippingCost("Chile")); 
 console.log(getShippingCost("Jamaica")); 
 console.log(getShippingCost("Sweden"));
+
